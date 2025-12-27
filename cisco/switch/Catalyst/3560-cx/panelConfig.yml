@@ -1,10 +1,20 @@
+anchorLinks:
+  - link: &grafana-home
+      url: "https://grafana.com/"
+      params: "time"
+
+datapoint: "last"
+
+cellIdPreamble: "cell-"
+dataRefTransform:
+  namespaced: true
+  queries:
+    Porta1: {tabularKeyColumn: "porta1"}
+
+
 cells:
-  - id: porta1             # O ID que você deu no draw.io (ex: porta1)
-    type: fill             # Vai preencher a cor da porta
-    fill:
-      metric: porta1       # Nome EXATO da métrica que vem da sua Query
-      thresholds:
-        - level: 0         # Level em vez de Value
-          color: "#ff0000" # Vermelho (Hexadecimal é mais garantido)
-        - level: 1
-          color: "#00ff00" # Verde
+  porta1:
+    dataRef: "porta1"
+    thresholds:
+      - {color: "green", level: 1}
+      - {color: "red", level: 0}
