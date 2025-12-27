@@ -2,7 +2,7 @@ dataRefTransform:
   namespaced: false
 
 cells:
-  porta:
+  porta1:
     datapoint: "last"
     dataRef: "porta1"
     fillColor:
