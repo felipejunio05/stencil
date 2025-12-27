@@ -7,7 +7,8 @@ datapoint: "last"
 
 dataRefTransform:
   namespaced: false
-  cellIdPreamble: "cell-"
+
+cellIdPreamble: "cell-"
 
 cells:
   porta1:
