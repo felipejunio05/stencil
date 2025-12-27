@@ -6,7 +6,7 @@ cellIdPreamble: "cell-"
 cells:
   porta1:
     datapoint: "last"
-    dataRef: "Interface Gi0/1(PHFWNG01): Operational status"
+    dataRef: "porta1"
     fillColor:
       thresholds:
         - {color: "red", level: 0}
