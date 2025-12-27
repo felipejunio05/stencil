@@ -1,5 +1,5 @@
 config:
-  - id: cell-porta1           # O ID que está dentro do seu SVG
+  - id: porta1           # O ID que está dentro do seu SVG
     type: fill            # Tipo de interação (mudar cor de fundo)
     metric: porta1    # O nome da métrica vindo da sua query
     thresholds:
