@@ -4,13 +4,178 @@ dataRefTransform:
 cellIdPreamble: "cell-"
 
 cells:
-  porta2:
+  porta1:
     datapoint: "last"
     dataRef: "porta1"
     fillColor:
       thresholds:
         - {color: "red", level: 0}
-        - {color: "green", level: -1}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta2:
+    datapoint: "last"
+    dataRef: "porta2"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta3:
+    datapoint: "last"
+    dataRef: "porta3"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta4:
+    datapoint: "last"
+    dataRef: "porta4"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta5:
+    datapoint: "last"
+    dataRef: "porta5"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta6:
+    datapoint: "last"
+    dataRef: "porta6"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta7:
+    datapoint: "last"
+    dataRef: "porta7"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta8:
+    datapoint: "last"
+    dataRef: "porta8"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta9:
+    datapoint: "last"
+    dataRef: "porta9"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta10:
+    datapoint: "last"
+    dataRef: "porta10"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta11:
+    datapoint: "last"
+    dataRef: "porta11"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta12:
+    datapoint: "last"
+    dataRef: "porta12"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta13:
+    datapoint: "last"
+    dataRef: "porta13"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta14:
+    datapoint: "last"
+    dataRef: "porta14"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta15:
+    datapoint: "last"
+    dataRef: "porta15"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
+    label:
+      valueMap:
+        0: "Down"
+        1: "Up"
+  porta16:
+    datapoint: "last"
+    dataRef: "porta16"
+    fillColor:
+      thresholds:
+        - {color: "red", level: 0}
+        - {color: "green", level: 1}
     label:
       valueMap:
         0: "Down"
