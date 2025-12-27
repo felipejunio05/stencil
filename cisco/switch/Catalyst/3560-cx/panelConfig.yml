@@ -10,7 +10,7 @@ cells:
     fillColor:
       thresholds:
         - {color: "red", level: 0}
-        - {color: "green", level: 1}
+        - {color: "green", level: -1}
     label:
       valueMap:
         0: "Down"
