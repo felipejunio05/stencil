@@ -1,10 +1,10 @@
 dataRefTransform:
   namespaced: false
 
-cellIdPreamble: ""
+cellIdPreamble: "cell-"
 
 cells:
-  porta:
+  porta2:
     datapoint: "last"
     dataRef: "porta1"
     fillColor:
