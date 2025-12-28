@@ -9,175 +9,126 @@ cells:
     dataRef: "porta1"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
-
   porta2:
     datapoint: "last"
     dataRef: "porta2"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta3:
     datapoint: "last"
     dataRef: "porta3"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta4:
     datapoint: "last"
     dataRef: "porta4"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta5:
     datapoint: "last"
     dataRef: "porta5"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta6:
     datapoint: "last"
     dataRef: "porta6"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta7:
     datapoint: "last"
     dataRef: "porta7"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta8:
     datapoint: "last"
     dataRef: "porta8"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta9:
     datapoint: "last"
     dataRef: "porta9"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta10:
     datapoint: "last"
     dataRef: "porta10"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta11:
     datapoint: "last"
     dataRef: "porta11"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta12:
     datapoint: "last"
     dataRef: "porta12"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta13:
     datapoint: "last"
     dataRef: "porta13"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta14:
     datapoint: "last"
     dataRef: "porta14"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta15:
     datapoint: "last"
     dataRef: "porta15"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
   porta16:
     datapoint: "last"
     dataRef: "porta16"
     fillColor:
       thresholds:
+        - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
-    label:
-      valueMap:
-        1: "up"
-        2: "down"
