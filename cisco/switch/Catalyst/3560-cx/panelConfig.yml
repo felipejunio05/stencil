@@ -135,7 +135,7 @@ cells:
   power:
     datapoint: "last"
     dataRef: "power"
-    fillColor:
+    labelColor:
       thresholds:
         - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
