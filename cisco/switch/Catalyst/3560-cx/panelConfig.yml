@@ -132,3 +132,11 @@ cells:
         - {color: "semi-dark-green", level: 0}
         - {color: "green", level: 1}
         - {color: "red", level: 2}
+  power:
+    datapoint: "last"
+    dataRef: "power"
+    fillColor:
+      thresholds:
+        - {color: "semi-dark-green", level: 0}
+        - {color: "green", level: 1}
+        - {color: "red", level: 2}
