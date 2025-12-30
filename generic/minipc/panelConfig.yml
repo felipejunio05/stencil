@@ -4,6 +4,14 @@ dataRefTransform:
 cellIdPreamble: "cell-"
 
 cells:
+  porta0:
+    datapoint: "last"
+    dataRef: "porta0"
+    fillColor:
+      thresholds:
+        - {color: "semi-dark-green", level: 0}
+        - {color: "green", level: 1}
+        - {color: "red", level: 2}
   porta1:
     datapoint: "last"
     dataRef: "porta1"
@@ -23,14 +31,6 @@ cells:
   porta3:
     datapoint: "last"
     dataRef: "porta3"
-    fillColor:
-      thresholds:
-        - {color: "semi-dark-green", level: 0}
-        - {color: "green", level: 1}
-        - {color: "red", level: 2}
-  porta4:
-    datapoint: "last"
-    dataRef: "porta4"
     fillColor:
       thresholds:
         - {color: "semi-dark-green", level: 0}
