@@ -1,0 +1,46 @@
+dataRefTransform:
+  namespaced: false
+
+cellIdPreamble: "cell-"
+
+cells:
+  porta1:
+    datapoint: "last"
+    dataRef: "porta1"
+    fillColor:
+      thresholds:
+        - {color: "semi-dark-green", level: 0}
+        - {color: "green", level: 1}
+        - {color: "red", level: 2}
+  porta2:
+    datapoint: "last"
+    dataRef: "porta2"
+    fillColor:
+      thresholds:
+        - {color: "semi-dark-green", level: 0}
+        - {color: "green", level: 1}
+        - {color: "red", level: 2}
+  porta3:
+    datapoint: "last"
+    dataRef: "porta3"
+    fillColor:
+      thresholds:
+        - {color: "semi-dark-green", level: 0}
+        - {color: "green", level: 1}
+        - {color: "red", level: 2}
+  porta4:
+    datapoint: "last"
+    dataRef: "porta4"
+    fillColor:
+      thresholds:
+        - {color: "semi-dark-green", level: 0}
+        - {color: "green", level: 1}
+        - {color: "red", level: 2}
+  power:
+    datapoint: "last"
+    dataRef: "power"
+    labelColor:
+      thresholds:
+        - {color: "semi-dark-green", level: 0}
+        - {color: "green", level: 1}
+        - {color: "red", level: 2}
